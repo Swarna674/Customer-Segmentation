@@ -23,6 +23,7 @@ Power BI dashboard analyzing customer segments, sales trends, profit drivers, an
 - Geographic concentration of orders is visible across **North America, Europe, and Asia**
 
   Swarnamayee Kar
+  
   Mail ID: swarnamayeekar121@gmail.com
   Linkedin: www.linkedin.com/in/swarnamayee-kar-7827a5282
 
