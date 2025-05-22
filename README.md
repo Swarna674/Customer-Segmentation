@@ -25,5 +25,6 @@ Power BI dashboard analyzing customer segments, sales trends, profit drivers, an
   Swarnamayee Kar
   
   Mail ID: swarnamayeekar121@gmail.com
+  
   Linkedin: www.linkedin.com/in/swarnamayee-kar-7827a5282
 
